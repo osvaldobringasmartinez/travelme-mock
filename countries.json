@@ -11,6 +11,17 @@
 				"timeZone": "UTC/GMT -3 HOURS",
 				"capital": "BUENOS AIRES"
 			}
+		},
+		{
+			"displayName": "México",
+			"iso": "MEX",
+			"flag": "https://lh6.googleusercontent.com/GpeBZvQZc-fIm5OzBlCpC8FXC96V5uGnrwJIUYEFLYggKAomBYaXvDW7lxDfwktOIkwuvNqushcJ4kYef52w0VI7XfzQUov-1B9lRV6w-PQi8lcAb4hMbXs9TRRY0ODRvf0d6YvXH71qJpE=w1280",
+			"details": {
+				"currency": "PESO (MXN)",
+				"languages": "SPANISH ONLY 92.7%, SPANISH AND INDIGENOUS LANGUAGES 5.7%, INDIGENOUS ONLY 0.8%, UNSPECIFIED 0.8%",
+				"timeZone": "UTC/GMT -6 HOURS",
+				"capital": "MEXICO CITY"
+			}
 		}
 
 	]
