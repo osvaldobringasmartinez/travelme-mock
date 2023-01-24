@@ -5,7 +5,7 @@
 			"displayName": "Argentina",
 			"iso": "ARG",
 			"region": "Latam",
-			"flag": "https://lh6.googleusercontent.com/GpeBZvQZc-fIm5OzBlCpC8FXC96V5uGnrwJIUYEFLYggKAomBYaXvDW7lxDfwktOIkwuvNqushcJ4kYef52w0VI7XfzQUov-1B9lRV6w-PQi8lcAb4hMbXs9TRRY0ODRvf0d6YvXH71qJpE=w1280",
+			"flag": "https://clac-lacac.org/wp-content/uploads/2020/10/bandera-argentina.png",
 			"details": {
 				"currency": "PESO (ARS)",
 				"languages": "SPANISH (OFFICIAL), ITALIAN, ENGLISH, GERMAN, FRENCH, INDIGENOUS (MAPUDUNGUN, QUECHUA)",
@@ -15,21 +15,21 @@
 		},
 		{
 			"displayName": "Colombia",
-			"iso": "MEX",
+			"iso": "COL",
 			"region": "Latam",
-			"flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/1200px-Flag_of_Colombia.svg.png",
+			"flag": "https://enciclopedia.banrepcultural.org/images/6/6d/400px-bandera_colombia.png",
 			"details": {
-				"currency": "PESO (MXN)",
-				"languages": "SPANISH ONLY 92.7%, SPANISH AND INDIGENOUS LANGUAGES 5.7%, INDIGENOUS ONLY 0.8%, UNSPECIFIED 0.8%",
-				"timeZone": "UTC/GMT -6 HOURS",
-				"capital": "MEXICO CITY"
+				"currency": "PESO (COP)",
+				"languages": "SPANISH (OFFICIAL)",
+				"timeZone": "UTC/GMT -5 HOURS",
+				"capital": "BOGOTA"
 			}
 		},
 		{
 			"displayName": "México",
 			"iso": "MEX",
 			"region": "Latam",
-			"flag": "https://lh6.googleusercontent.com/GpeBZvQZc-fIm5OzBlCpC8FXC96V5uGnrwJIUYEFLYggKAomBYaXvDW7lxDfwktOIkwuvNqushcJ4kYef52w0VI7XfzQUov-1B9lRV6w-PQi8lcAb4hMbXs9TRRY0ODRvf0d6YvXH71qJpE=w1280",
+			"flag": "https://lh3.googleusercontent.com/--gVN2MBJux0/VnMC8EZmlQI/AAAAAAAALO8/N5Y-llclfFY/s448-Ic42/09-bandera-1934-1969-historia-bandera-mexico.png",
 			"details": {
 				"currency": "PESO (MXN)",
 				"languages": "SPANISH ONLY 92.7%, SPANISH AND INDIGENOUS LANGUAGES 5.7%, INDIGENOUS ONLY 0.8%, UNSPECIFIED 0.8%",
@@ -39,211 +39,207 @@
 		},
 		{
 			"displayName": "Brazil",
-			"iso": "MEX",
+			"iso": "BRA",
 			"region": "Latam",
 			"flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/300px-Flag_of_Brazil.svg.png",
 			"details": {
-				"currency": "PESO (MXN)",
-				"languages": "SPANISH ONLY 92.7%, SPANISH AND INDIGENOUS LANGUAGES 5.7%, INDIGENOUS ONLY 0.8%, UNSPECIFIED 0.8%",
-				"timeZone": "UTC/GMT -6 HOURS",
-				"capital": "MEXICO CITY"
+				"currency": "REAL (BRL)",
+				"languages": "PORTUGUESE (OFFICIAL AND MOST WIDELY SPOKEN LANGUAGE)",
+				"timeZone": "UTC/GMT -3 HOURS",
+				"capital": "BRASILIA"
 			}
 		},
 		{
 			"displayName": "Costa Rica",
-			"iso": "MEX",
+			"iso": "CRI",
 			"region": "Latam",
-			"flag": "https://lh6.googleusercontent.com/GpeBZvQZc-fIm5OzBlCpC8FXC96V5uGnrwJIUYEFLYggKAomBYaXvDW7lxDfwktOIkwuvNqushcJ4kYef52w0VI7XfzQUov-1B9lRV6w-PQi8lcAb4hMbXs9TRRY0ODRvf0d6YvXH71qJpE=w1280",
+			"flag": "https://p.kindpng.com/picc/s/130-1306294_cr-costa-rica-flag-icon-costa-rica-bandera.png",
 			"details": {
-				"currency": "PESO (MXN)",
-				"languages": "SPANISH ONLY 92.7%, SPANISH AND INDIGENOUS LANGUAGES 5.7%, INDIGENOUS ONLY 0.8%, UNSPECIFIED 0.8%",
+				"currency": "COLON (CRC)",
+				"languages": "SPANISH (OFFICIAL), ENGLISH",
 				"timeZone": "UTC/GMT -6 HOURS",
-				"capital": "MEXICO CITY"
+				"capital": "SAN JOSE"
 			}
 		},
 		{
 			"displayName": "Canada",
-			"iso": "MEX",
+			"iso": "CAN",
 			"region": "US & Canada",
-			"flag": "https://lh6.googleusercontent.com/GpeBZvQZc-fIm5OzBlCpC8FXC96V5uGnrwJIUYEFLYggKAomBYaXvDW7lxDfwktOIkwuvNqushcJ4kYef52w0VI7XfzQUov-1B9lRV6w-PQi8lcAb4hMbXs9TRRY0ODRvf0d6YvXH71qJpE=w1280",
+			"flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/800px-Flag_of_Canada_%28Pantone%29.svg.png",
 			"details": {
-				"currency": "PESO (MXN)",
-				"languages": "SPANISH ONLY 92.7%, SPANISH AND INDIGENOUS LANGUAGES 5.7%, INDIGENOUS ONLY 0.8%, UNSPECIFIED 0.8%",
-				"timeZone": "UTC/GMT -6 HOURS",
-				"capital": "MEXICO CITY"
+				"currency": "DOLLAR (CAD)",
+				"languages": "ENGLISH (OFFICIAL) 58.7%, FRENCH (OFFICIAL) 22%, PUNJABI 1.4%, ITALIAN 1.3%, SPANISH 1.3%, GERMAN 1.3%, CANTONESE 1.2%, TAGALOG 1.2%, ARABIC 1.1%, OTHER 10.5% (2011 EST.)",
+				"timeZone": "UTC/GMT -5 HOURS",
+				"capital": "OTTAWA"
 			}
 		},
 		{
 			"displayName": "Chile",
-			"iso": "MEX",
+			"iso": "CHL",
 			"region": "Latam",
-			"flag": "https://lh6.googleusercontent.com/GpeBZvQZc-fIm5OzBlCpC8FXC96V5uGnrwJIUYEFLYggKAomBYaXvDW7lxDfwktOIkwuvNqushcJ4kYef52w0VI7XfzQUov-1B9lRV6w-PQi8lcAb4hMbXs9TRRY0ODRvf0d6YvXH71qJpE=w1280",
+			"flag": "https://i.ytimg.com/vi/7D1vZAXk1xI/mqdefault.jpg",
 			"details": {
-				"currency": "PESO (MXN)",
-				"languages": "SPANISH ONLY 92.7%, SPANISH AND INDIGENOUS LANGUAGES 5.7%, INDIGENOUS ONLY 0.8%, UNSPECIFIED 0.8%",
-				"timeZone": "UTC/GMT -6 HOURS",
-				"capital": "MEXICO CITY"
+				"currency": "PESO (CLP)",
+				"languages": "SPANISH 99.5% (OFFICIAL), ENGLISH 10.2%, INDIGENOUS 1% (INCLUDES MAPUDUNGUN, AYMARA, QUECHUA, RAPA NUI), OTHER 2.3%, UNSPECIFIED 0.2%",
+				"timeZone": "UTC/GMT -3 HOURS",
+				"capital": "SANTIAGO"
 			}
 		},
 		{
 			"displayName": "Peru",
-			"iso": "MEX",
+			"iso": "PER",
 			"region": "Latam",
-			"flag": "https://lh6.googleusercontent.com/GpeBZvQZc-fIm5OzBlCpC8FXC96V5uGnrwJIUYEFLYggKAomBYaXvDW7lxDfwktOIkwuvNqushcJ4kYef52w0VI7XfzQUov-1B9lRV6w-PQi8lcAb4hMbXs9TRRY0ODRvf0d6YvXH71qJpE=w1280",
+			"flag": "http://www.comprarbanderas.es/blog/wp-content/uploads/2013/06/541-peru-se_400px.jpg",
 			"details": {
-				"currency": "PESO (MXN)",
-				"languages": "SPANISH ONLY 92.7%, SPANISH AND INDIGENOUS LANGUAGES 5.7%, INDIGENOUS ONLY 0.8%, UNSPECIFIED 0.8%",
-				"timeZone": "UTC/GMT -6 HOURS",
-				"capital": "MEXICO CITY"
+				"currency": "SOL (PEN)",
+				"languages": "SPANISH (OFFICIAL) 84.1%, QUECHUA (OFFICIAL) 13%, AYMARA (OFFICIAL) 1.7%, ASHANINKA 0.3%, OTHER NATIVE LANGUAGES (INCLUDES A LARGE NUMBER OF MINOR AMAZONIAN LANGUAGES) 0.7%, OTHER (INCLUDES FOREIGN LANGUAGES AND SIGN LANGUAGE) 0.2% (2007 EST.)",
+				"timeZone": "UTC/GMT -5 HOURS",
+				"capital": "LIMA"
 			}
 		},
 		{
 			"displayName": "Uruguay",
-			"iso": "MEX",
+			"iso": "URY",
 			"region": "Latam",
-			"flag": "https://lh6.googleusercontent.com/GpeBZvQZc-fIm5OzBlCpC8FXC96V5uGnrwJIUYEFLYggKAomBYaXvDW7lxDfwktOIkwuvNqushcJ4kYef52w0VI7XfzQUov-1B9lRV6w-PQi8lcAb4hMbXs9TRRY0ODRvf0d6YvXH71qJpE=w1280",
+			"flag": "https://us.123rf.com/450wm/ivanburchak/ivanburchak2207/ivanburchak220700174/ivanburchak220700174.jpg?ver=6",
 			"details": {
-				"currency": "PESO (MXN)",
-				"languages": "SPANISH ONLY 92.7%, SPANISH AND INDIGENOUS LANGUAGES 5.7%, INDIGENOUS ONLY 0.8%, UNSPECIFIED 0.8%",
-				"timeZone": "UTC/GMT -6 HOURS",
-				"capital": "MEXICO CITY"
+				"currency": "PESO (UYU)",
+				"languages": "SPANISH (OFFICIAL), PORTUNOL, BRAZILERO (PORTUGUESE-SPANISH MIX ON THE BRAZILIAN FRONTIER)",
+				"timeZone": "UTC/GMT -3 HOURS",
+				"capital": "MONTEVIDEO"
 			}
 		}
 
 		,
 		{
 			"displayName": "Ecuador",
-			"iso": "MEX",
+			"iso": "ECU",
 			"region": "Latam",
-			"flag": "https://lh6.googleusercontent.com/GpeBZvQZc-fIm5OzBlCpC8FXC96V5uGnrwJIUYEFLYggKAomBYaXvDW7lxDfwktOIkwuvNqushcJ4kYef52w0VI7XfzQUov-1B9lRV6w-PQi8lcAb4hMbXs9TRRY0ODRvf0d6YvXH71qJpE=w1280",
+			"flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Flag_of_Ecuador_%281900%E2%80%932009%29.svg/300px-Flag_of_Ecuador_%281900%E2%80%932009%29.svg.png",
 			"details": {
-				"currency": "PESO (MXN)",
-				"languages": "SPANISH ONLY 92.7%, SPANISH AND INDIGENOUS LANGUAGES 5.7%, INDIGENOUS ONLY 0.8%, UNSPECIFIED 0.8%",
-				"timeZone": "UTC/GMT -6 HOURS",
-				"capital": "MEXICO CITY"
+				"currency": "DOLLAR (USD)",
+				"languages": "SPANISH (CASTILLIAN) 93% (OFFICIAL), QUECHUA 4.1%, OTHER INDIGENOUS 0.7%, FOREIGN 2.2%",
+				"timeZone": "UTC/GMT -5 HOURS",
+				"capital": "QUITO"
 			}
 		},
 		{
 			"displayName": "USA",
-			"iso": "MEX",
+			"iso": "USA",
 			"region": "US & Canada",
-			"flag": "https://lh6.googleusercontent.com/GpeBZvQZc-fIm5OzBlCpC8FXC96V5uGnrwJIUYEFLYggKAomBYaXvDW7lxDfwktOIkwuvNqushcJ4kYef52w0VI7XfzQUov-1B9lRV6w-PQi8lcAb4hMbXs9TRRY0ODRvf0d6YvXH71qJpE=w1280",
+			"flag": "https://static.vecteezy.com/system/resources/thumbnails/000/658/474/small/usa.jpg",
 			"details": {
-				"currency": "PESO (MXN)",
-				"languages": "SPANISH ONLY 92.7%, SPANISH AND INDIGENOUS LANGUAGES 5.7%, INDIGENOUS ONLY 0.8%, UNSPECIFIED 0.8%",
-				"timeZone": "UTC/GMT -6 HOURS",
-				"capital": "MEXICO CITY"
+				"currency": "DOLLAR (USD)",
+				"languages": "ENGLISH 82.1%, SPANISH 10.7%, OTHER INDO-EUROPEAN 3.8%, ASIAN AND PACIFIC ISLAND 2.7%, OTHER 0.7% (2000 CENSUS)",
+				"timeZone": "UTC/GMT -5 HOURS",
+				"capital": "WASHINGTON"
 			}
 		},
 		{
 			"displayName": "Spain",
-			"iso": "MEX",
+			"iso": "ESP",
 			"region": "EMEA",
-			"flag": "https://lh6.googleusercontent.com/GpeBZvQZc-fIm5OzBlCpC8FXC96V5uGnrwJIUYEFLYggKAomBYaXvDW7lxDfwktOIkwuvNqushcJ4kYef52w0VI7XfzQUov-1B9lRV6w-PQi8lcAb4hMbXs9TRRY0ODRvf0d6YvXH71qJpE=w1280",
+			"flag": "http://vexilologia.org/wp-content/uploads/2016/10/besp2.png",
 			"details": {
-				"currency": "PESO (MXN)",
-				"languages": "SPANISH ONLY 92.7%, SPANISH AND INDIGENOUS LANGUAGES 5.7%, INDIGENOUS ONLY 0.8%, UNSPECIFIED 0.8%",
-				"timeZone": "UTC/GMT -6 HOURS",
-				"capital": "MEXICO CITY"
+				"currency": "EURO (EUR)",
+				"languages": "CASTILIAN SPANISH (OFFICIAL) 74%, CATALAN 17%, GALICIAN 7%, AND BASQUE 2%",
+				"timeZone": "UTC/GMT +1 HOUR",
+				"capital": "MADRID"
 			}
 		},
 		{
 			"displayName": "UK",
-			"iso": "MEX",
-
+			"iso": "GBR",
 			"region": "EMEA",
-			"flag": "https://lh6.googleusercontent.com/GpeBZvQZc-fIm5OzBlCpC8FXC96V5uGnrwJIUYEFLYggKAomBYaXvDW7lxDfwktOIkwuvNqushcJ4kYef52w0VI7XfzQUov-1B9lRV6w-PQi8lcAb4hMbXs9TRRY0ODRvf0d6YvXH71qJpE=w1280",
+			"flag": "https://img.freepik.com/vector-premium/bandera-britanica-bandera-inglaterra-simbolo-reino-unido-signo-gran-reino-ingles-imagen-vectorial_213497-843.jpg",
 			"details": {
-				"currency": "PESO (MXN)",
-				"languages": "SPANISH ONLY 92.7%, SPANISH AND INDIGENOUS LANGUAGES 5.7%, INDIGENOUS ONLY 0.8%, UNSPECIFIED 0.8%",
-				"timeZone": "UTC/GMT -6 HOURS",
-				"capital": "MEXICO CITY"
+				"currency": "POUND (GBP)",
+				"languages": "ENGLISH",
+				"timeZone": "UTC/GMT +0 HOURS",
+				"capital": "LONDON"
 			}
 		},
 		{
 			"displayName": "France",
-			"iso": "MEX",
-
+			"iso": "FRA",
 			"region": "EMEA",
-			"flag": "https://lh6.googleusercontent.com/GpeBZvQZc-fIm5OzBlCpC8FXC96V5uGnrwJIUYEFLYggKAomBYaXvDW7lxDfwktOIkwuvNqushcJ4kYef52w0VI7XfzQUov-1B9lRV6w-PQi8lcAb4hMbXs9TRRY0ODRvf0d6YvXH71qJpE=w1280",
+			"flag": "https://cdn.pixabay.com/photo/2013/07/13/14/15/france-162295_640.png",
 			"details": {
-				"currency": "PESO (MXN)",
-				"languages": "SPANISH ONLY 92.7%, SPANISH AND INDIGENOUS LANGUAGES 5.7%, INDIGENOUS ONLY 0.8%, UNSPECIFIED 0.8%",
-				"timeZone": "UTC/GMT -6 HOURS",
-				"capital": "MEXICO CITY"
+				"currency": "EURO (EUR)",
+				"languages": "FRENCH (OFFICIAL) 100%, RAPIDLY DECLINING REGIONAL DIALECTS AND LANGUAGES (PROVENCAL, BRETON, ALSATIAN, CORSICAN, CATALAN, BASQUE, FLEMISH)",
+				"timeZone": "UTC/GMT +1 HOUR",
+				"capital": "PARIS"
 			}
 		},
 		{
 			"displayName": "Belarus",
-			"iso": "MEX",
-
+			"iso": "BLR",
 			"region": "EMEA",
-			"flag": "https://lh6.googleusercontent.com/GpeBZvQZc-fIm5OzBlCpC8FXC96V5uGnrwJIUYEFLYggKAomBYaXvDW7lxDfwktOIkwuvNqushcJ4kYef52w0VI7XfzQUov-1B9lRV6w-PQi8lcAb4hMbXs9TRRY0ODRvf0d6YvXH71qJpE=w1280",
+			"flag": "https://www.banderas-mundo.es/data/flags/w580/by.png",
 			"details": {
-				"currency": "PESO (MXN)",
-				"languages": "SPANISH ONLY 92.7%, SPANISH AND INDIGENOUS LANGUAGES 5.7%, INDIGENOUS ONLY 0.8%, UNSPECIFIED 0.8%",
-				"timeZone": "UTC/GMT -6 HOURS",
-				"capital": "MEXICO CITY"
+				"currency": "RUBLE (BYR)",
+				"languages": "BELARUSIAN (OFFICIAL) 23.4%, RUSSIAN (OFFICIAL) 70.2%, OTHER 3.1% (INCLUDES SMALL POLISH- AND UKRAINIAN-SPEAKING MINORITIES), UNSPECIFIED 3.3% (2009 EST.)",
+				"timeZone": "UTC/GMT +3 HOURS",
+				"capital": "MINSK"
 			}
 		},
 		{
 			"displayName": "Romania",
-			"iso": "MEX",
-
+			"iso": "ROU",
 			"region": "EMEA",
-			"flag": "https://lh6.googleusercontent.com/GpeBZvQZc-fIm5OzBlCpC8FXC96V5uGnrwJIUYEFLYggKAomBYaXvDW7lxDfwktOIkwuvNqushcJ4kYef52w0VI7XfzQUov-1B9lRV6w-PQi8lcAb4hMbXs9TRRY0ODRvf0d6YvXH71qJpE=w1280",
+			"flag": "https://www.lifeder.com/wp-content/uploads/2019/11/Rumania3-300x200.png",
 			"details": {
-				"currency": "PESO (MXN)",
-				"languages": "SPANISH ONLY 92.7%, SPANISH AND INDIGENOUS LANGUAGES 5.7%, INDIGENOUS ONLY 0.8%, UNSPECIFIED 0.8%",
-				"timeZone": "UTC/GMT -6 HOURS",
-				"capital": "MEXICO CITY"
+				"currency": "LEU (RON)",
+				"languages": "ROMANIAN (OFFICIAL) 85.4%, HUNGARIAN 6.3%, ROMANY (GYPSY) 1.2%, OTHER 1%, UNSPECIFIED 6.1% (2011 EST.)",
+				"timeZone": "UTC/GMT +2 HOURS",
+				"capital": "BUCHAREST"
 			}
 		},
 		{
 			"displayName": "India",
-			"iso": "MEX",
-			"flag": "https://lh6.googleusercontent.com/GpeBZvQZc-fIm5OzBlCpC8FXC96V5uGnrwJIUYEFLYggKAomBYaXvDW7lxDfwktOIkwuvNqushcJ4kYef52w0VI7XfzQUov-1B9lRV6w-PQi8lcAb4hMbXs9TRRY0ODRvf0d6YvXH71qJpE=w1280",
+			"iso": "IND",
+			"flag": "https://www.banderas-mundo.es/data/flags/w580/in.png",
 			"details": {
-				"currency": "PESO (MXN)",
-				"languages": "SPANISH ONLY 92.7%, SPANISH AND INDIGENOUS LANGUAGES 5.7%, INDIGENOUS ONLY 0.8%, UNSPECIFIED 0.8%",
-				"timeZone": "UTC/GMT -6 HOURS",
-				"capital": "MEXICO CITY"
+				"currency": "RUPEE (INR)",
+				"languages": "HINDI 41%, BENGALI 8.1%, TELUGU 7.2%, MARATHI 7%, TAMIL 5.9%, URDU 5%, GUJARATI 4.5%, KANNADA 3.7%, MALAYALAM 3.2%, ORIYA 3.2%, PUNJABI 2.8%, ASSAMESE 1.3%, MAITHILI 1.2%, OTHER 5.9%",
+				"timeZone": "UTC/GMT +5 HOURS 30 MINUTES",
+				"capital": "NEW DELHI"
 			}
 		},
 		{
 			"displayName": "Germany",
-			"iso": "MEX",
+			"iso": "DEU",
 			"region": "EMEA",
-			"flag": "https://lh6.googleusercontent.com/GpeBZvQZc-fIm5OzBlCpC8FXC96V5uGnrwJIUYEFLYggKAomBYaXvDW7lxDfwktOIkwuvNqushcJ4kYef52w0VI7XfzQUov-1B9lRV6w-PQi8lcAb4hMbXs9TRRY0ODRvf0d6YvXH71qJpE=w1280",
+			"flag": "https://png.pngitem.com/pimgs/s/10-104938_de-germany-flag-icon-bandera-de-alemania-pequea.png",
 			"details": {
-				"currency": "PESO (MXN)",
-				"languages": "SPANISH ONLY 92.7%, SPANISH AND INDIGENOUS LANGUAGES 5.7%, INDIGENOUS ONLY 0.8%, UNSPECIFIED 0.8%",
-				"timeZone": "UTC/GMT -6 HOURS",
-				"capital": "MEXICO CITY"
+				"currency": "EURO (EUR)",
+				"languages": "GERMAN (OFFICIAL)",
+				"timeZone": "UTC/GMT +1 HOUR",
+				"capital": "BERLIN"
 			}
 		},
 		{
 			"displayName": "Poland",
-			"iso": "MEX",
+			"iso": "POL",
 			"region": "EMEA",
-			"flag": "https://lh6.googleusercontent.com/GpeBZvQZc-fIm5OzBlCpC8FXC96V5uGnrwJIUYEFLYggKAomBYaXvDW7lxDfwktOIkwuvNqushcJ4kYef52w0VI7XfzQUov-1B9lRV6w-PQi8lcAb4hMbXs9TRRY0ODRvf0d6YvXH71qJpE=w1280",
+			"flag": "https://static3.depositphotos.com/1000209/137/v/600/depositphotos_1378182-stock-illustration-poland-flag.jpg",
 			"details": {
-				"currency": "PESO (MXN)",
-				"languages": "SPANISH ONLY 92.7%, SPANISH AND INDIGENOUS LANGUAGES 5.7%, INDIGENOUS ONLY 0.8%, UNSPECIFIED 0.8%",
-				"timeZone": "UTC/GMT -6 HOURS",
-				"capital": "MEXICO CITY"
+				"currency": "ZLOTY (PLN)",
+				"languages": "POLISH (OFFICIAL) 96.2%, POLISH AND NON-POLISH 2%, NON-POLISH 0.5%, UNSPECIFIED 1.3%",
+				"timeZone": "UTC/GMT +1 HOUR",
+				"capital": "WARSAW"
 			}
 		},
 		{
 			"displayName": "Luxembourg",
-			"iso": "MEX",
+			"iso": "LUX",
 			"region": "EMEA",
-			"flag": "https://lh6.googleusercontent.com/GpeBZvQZc-fIm5OzBlCpC8FXC96V5uGnrwJIUYEFLYggKAomBYaXvDW7lxDfwktOIkwuvNqushcJ4kYef52w0VI7XfzQUov-1B9lRV6w-PQi8lcAb4hMbXs9TRRY0ODRvf0d6YvXH71qJpE=w1280",
+			"flag": "https://i.ebayimg.com/images/g/XlAAAMXQHPFRh1Uq/s-l500.jpg",
 			"details": {
-				"currency": "PESO (MXN)",
-				"languages": "SPANISH ONLY 92.7%, SPANISH AND INDIGENOUS LANGUAGES 5.7%, INDIGENOUS ONLY 0.8%, UNSPECIFIED 0.8%",
-				"timeZone": "UTC/GMT -6 HOURS",
-				"capital": "MEXICO CITY"
+				"currency": "EURO (EUR)",
+				"languages": "LUXEMBOURGISH (OFFICIAL ADMINISTRATIVE LANGUAGE AND NATIONAL LANGUAGE (SPOKEN VERNACULAR)), FRENCH (OFFICIAL ADMINISTRATIVE LANGUAGE), GERMAN (OFFICIAL ADMINISTRATIVE LANGUAGE)",
+				"timeZone": "UTC/GMT +1 HOUR",
+				"capital": "LUXEMBOURG"
 			}
 		}
 	]
