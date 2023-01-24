@@ -89,7 +89,7 @@
 			"displayName": "Peru",
 			"iso": "PER",
 			"region": "Latam",
-			"flag": "http://www.comprarbanderas.es/blog/wp-content/uploads/2013/06/541-peru-se_400px.jpg",
+			"flag": "https://www.comprarbanderas.es/blog/wp-content/uploads/2013/06/541-peru-se_400px.jpg",
 			"details": {
 				"currency": "SOL (PEN)",
 				"languages": "SPANISH (OFFICIAL) 84.1%, QUECHUA (OFFICIAL) 13%, AYMARA (OFFICIAL) 1.7%, ASHANINKA 0.3%, OTHER NATIVE LANGUAGES (INCLUDES A LARGE NUMBER OF MINOR AMAZONIAN LANGUAGES) 0.7%, OTHER (INCLUDES FOREIGN LANGUAGES AND SIGN LANGUAGE) 0.2% (2007 EST.)",
@@ -139,7 +139,7 @@
 			"displayName": "Spain",
 			"iso": "ESP",
 			"region": "EMEA",
-			"flag": "http://vexilologia.org/wp-content/uploads/2016/10/besp2.png",
+			"flag": "https://vexilologia.org/wp-content/uploads/2016/10/besp2.png",
 			"details": {
 				"currency": "EURO (EUR)",
 				"languages": "CASTILIAN SPANISH (OFFICIAL) 74%, CATALAN 17%, GALICIAN 7%, AND BASQUE 2%",
