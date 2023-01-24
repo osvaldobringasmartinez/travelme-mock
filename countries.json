@@ -59,7 +59,7 @@
 		{
 			"displayName": "Canada",
 			"iso": "MEX",
-			"region": US_and_Canada,
+			"region": "US_and_Canada",
 			"flag": "https://lh6.googleusercontent.com/GpeBZvQZc-fIm5OzBlCpC8FXC96V5uGnrwJIUYEFLYggKAomBYaXvDW7lxDfwktOIkwuvNqushcJ4kYef52w0VI7XfzQUov-1B9lRV6w-PQi8lcAb4hMbXs9TRRY0ODRvf0d6YvXH71qJpE=w1280",
 			"details": {
 				"currency": "PESO (MXN)",
