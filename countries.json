@@ -14,7 +14,7 @@
 		},
 		{
 			"displayName": "Colombia",
-			"iso": "MEX",
+			"iso": "CLN",
 			"flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/1200px-Flag_of_Colombia.svg.png",
 			"details": {
 				"currency": "PESO (MXN)",
@@ -36,7 +36,7 @@
 		},
 		{
 			"displayName": "Brazil",
-			"iso": "MEX",
+			"iso": "BRZ",
 			"flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/300px-Flag_of_Brazil.svg.png",
 			"details": {
 				"currency": "PESO (MXN)",
@@ -47,7 +47,7 @@
 		},
 		{
 			"displayName": "Costa Rica",
-			"iso": "MEX",
+			"iso": "COR",
 			"flag": "https://lh6.googleusercontent.com/GpeBZvQZc-fIm5OzBlCpC8FXC96V5uGnrwJIUYEFLYggKAomBYaXvDW7lxDfwktOIkwuvNqushcJ4kYef52w0VI7XfzQUov-1B9lRV6w-PQi8lcAb4hMbXs9TRRY0ODRvf0d6YvXH71qJpE=w1280",
 			"details": {
 				"currency": "PESO (MXN)",
